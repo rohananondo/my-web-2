@@ -102,3 +102,52 @@ h4 {
     margin-left: 25%;
 
 }
+
+#plan {
+    font-size: 40px;
+}
+
+.donation-plan {
+    text-align: center;
+    margin-bottom: 5%;
+}
+
+#our {
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+.donation {
+    margin-bottom: 10%;
+}
+
+.donated {
+    width: 50%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-top: 3%;
+    padding-right: 3%;
+    padding-left: 3%;
+    box-shadow: 10px 10px 40px grey;
+
+    text-align: left;
+}
+
+.our-donation-plan {
+    display: flex;
+    margin-left: 5%;
+    margin-right: 5%;
+
+}
+
+#first {
+    background-color: aliceblue;
+}
+
+#second {
+    background-color: antiquewhite;
+}
+
+#third {
+    background-color: beige;
+}
