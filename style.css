@@ -22,7 +22,7 @@ h4 {
     font-size: 15px;
     margin-left: 20%;
     margin-right: 20%;
-    margin-bottom: 5%;
+    margin-bottom: 10%;
 
 }
 
@@ -58,7 +58,7 @@ h4 {
     width: 50%;
     margin-left: 25%;
     border-radius: 50px;
-    margin-bottom: 10%;
+
     padding: 10px;
     box-shadow: 10px 10px 40px grey;
 }
@@ -75,27 +75,20 @@ h4 {
     width: 20%;
     margin-top: 20px;
     box-shadow: 10px 10px 40px grey;
-    border-radius: 20px;
+    margin-left: 20px;
     text-align: center;
-    padding-top: 20px;
-    padding-bottom: 20px;
-    margin-left: 40%;
+    padding: 30px;
     background-color: antiquewhite;
+    font-size: 30px;
 
 }
 
-.donation-amount-- {
-    width: 20%;
-    margin-top: 20px;
-    box-shadow: 10px 10px 40px grey;
-    border-radius: 20px;
-    text-align: center;
-    padding-top: 20px;
-    padding-bottom: 20px;
-    margin-left: 40%;
+#colour {
     background-image: linear-gradient(to bottom right, blue, skyblue);
 
 }
+
+
 
 .today-button {
     text-align: center;
@@ -104,4 +97,8 @@ h4 {
 
 .amount {
     margin-bottom: 5%;
+    display: flex;
+    width: 50%;
+    margin-left: 25%;
+
 }
